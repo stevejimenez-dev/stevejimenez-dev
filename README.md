@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Steve Jimenez 👋
 
-<!--
-**stevejimenez-dev/stevejimenez-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer Student | Passionate about building scalable web solutions and learning new technologies every day.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Frontend:** HTML5, CSS3
+- **Database:** SQL
+- **Version Control:** Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+- JavaScript (Deep dive)
+
+## 📫 How to reach me
+- **LinkedIn:** [steve-jiménez](https://www.linkedin.com/in/steve-jiménez)
+- **Email:** stevejimenez.dev@proton.me
